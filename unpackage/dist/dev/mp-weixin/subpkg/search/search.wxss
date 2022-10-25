@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.top {
+  background-color: red;
+}
+.search {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  border-bottom: 1px solid #eee;
+}
+.sear_tag {
+  margin-top: 8px;
+}
+.sear_tag uni-tag {
+  margin-left: 8px;
+}
+.list {
+  display: flex;
+  line-height: 40px;
+  justify-content: space-between;
+  padding: 0 10px;
+  border-bottom: 1px solid gray;
+}
+.list text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+

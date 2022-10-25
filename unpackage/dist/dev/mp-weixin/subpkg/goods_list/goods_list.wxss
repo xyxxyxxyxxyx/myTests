@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.goods_box {
+  display: flex;
+  border-bottom: 1px solid #eee;
+}
+.goods_box image {
+  width: 100px;
+  height: 100px;
+}
+
